@@ -13,4 +13,5 @@ How to use:
 3. Run _php artisan config:clear_ to apply changes.
 4. Access to your laravel server, register and create room.
 5. Go to the main page and you should be able to join.
+----
 Example:
