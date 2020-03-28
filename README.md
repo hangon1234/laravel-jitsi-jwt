@@ -1,6 +1,9 @@
 # laravel-jitsi-jwt
 ### Simple Laravel based Jitsi JWT token issuer ###
 ----
+History:
+- To show example usage of Jitsi instance. It has basic authentication feature, room and token management. I make it as simple as possible for my colleagues who don't understand token based authentication. Jitsi authentication is disabled by default, so I change it to token authentication, hence it could handle its users, authenticate and join the room.
+----
 Features:
 1. Basic authentication
 2. User and room management
