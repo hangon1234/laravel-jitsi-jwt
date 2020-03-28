@@ -11,8 +11,10 @@ How to use:
 - You should have running instance of Jitsi and configure it uses JWT token authentication.
 - Copy env.example to .env.
 - Modify .env file, set URL of your jitsi instance, and JWT token secret key.
-- Run `composer update` to install php dependencies.
-- Run `php artisan config:clear` to apply changes.
+- Put this project in your server which is configured for laravel environment. (I recommend laradock for easy installation if you know docker)
+- Run `composer install` to install php dependencies.
+- Run `php artisan config:clear` to apply changes in .env
+- Run `php artisan route:cache` and `php artisan route:cache`
 - Access to your laravel server, register and create room.
 - Go to the main page and you should be able to join.
 ----
