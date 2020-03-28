@@ -22,3 +22,26 @@ How to use:
 - Go to the main page and you should be able to join.
 ----
 Example:
+![1](https://github.com/hangon1234/laravel-jitsi-jwt/blob/master/images/1.png?raw=true)
+
+Sign in page
+
+![2](https://github.com/hangon1234/laravel-jitsi-jwt/blob/master/images/2.png?raw=true)
+
+Register page
+
+![3](https://github.com/hangon1234/laravel-jitsi-jwt/blob/master/images/3.png?raw=true)
+
+Room creation
+
+![4](https://github.com/hangon1234/laravel-jitsi-jwt/blob/master/images/4.png?raw=true)
+
+Room manager
+
+![5](https://github.com/hangon1234/laravel-jitsi-jwt/blob/master/images/5.png?raw=true)
+
+Token issued and redirect to Jitsi server
+
+![6](https://github.com/hangon1234/laravel-jitsi-jwt/blob/master/images/6.png?raw=true)
+
+Joined room
